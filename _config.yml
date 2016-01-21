@@ -1,0 +1,28 @@
+name: Legacy Concepts of the Emerald Coast
+favicon: null
+layout_spectrum: 0.0987936076708138
+typography_spectrum: 0.1497657939326018
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.683660177513957
+  lightness: 0.46564689837396145
+  saturation: 0.7793027982115746
+  rhythmicContrast: 0.2216204460710287
+purpose: []
